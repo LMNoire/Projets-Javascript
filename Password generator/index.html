@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password generator</title>
+    <!--Style-->
+    <link rel="stylesheet" href="style.css">
+    <!--Google fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Roboto&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <!--Password generator container-->
+    <div class="container">
+        <!--H1 & H2 titles-->
+        <h1>Password generator</h1><br>
+        <h2><span class="subTitle">With Javascript</span></h2> 
+            <!--Generated password display container-->
+            <div class="display">
+                <!--Input field-->
+                <input type="text" id="password" placeholder="Password">
+                <!--Copy img-->
+                <img src="assets/copy.png" onclick="copyPassword()">
+            </div>  
+            <!--Generate password button with img--> 
+            <button onclick="createPassword()"><img src="assets/generate.png">Generate password</button>
+    </div>
+    
+    <!--JS scripts-->
+    <script src="script.js"></script>
+</body>
+</html>
