@@ -2,6 +2,7 @@
 Série de petits projets réutilisables afin de monter en compétences sur le Javascript
 # Contenu des projets
 - Circular progress bar : Barre de chargement circulaire
+- Coming soon page : Page de lancement d'un site avec compte à rebours
 - Cryptocurrencies live prices : Affichage en temps réel du prix de trois cryptomonnaies avec l'API Coin Gecko (+ Ajax & Jquery)
 - Digital clock : Horloge digitale
 - Password generator : Générer un mot de passe aléatoirement avec copie dans le clipboard
