@@ -8,21 +8,25 @@
 body {
     background-color: #4B4E6D;
 }
+
 /*H1 & H2*/
 h1, h2 {
     margin-top: 5px;
     text-align: center;
     color: #95A3B3;
 }
+
 #live {
     color: #84DCC6;
 }
+
 .coinList {
     margin: 200px auto;
     display: flex;
     align-items: center;
     justify-content: space-around;
 }
+
 .coin {
     font-size: 14px;
     margin: 0 15px;
@@ -30,9 +34,11 @@ h1, h2 {
     padding: 20px 30px;
     border-radius: 8px;
 }
+
 p {
     font-size: 20px;
 }
+
 .coin h3 {
     color: #fff;
     margin-bottom: 5px;
