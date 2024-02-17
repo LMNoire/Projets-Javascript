@@ -1,5 +1,5 @@
 # Description
-Série de petits projets réutilisables afin de monter en compétences sur le Javascript
+Série de petits projets réutilisables afin de monter en compétences sur Javascript
 # Contenu des projets
 - Calculator : Calculatrice
 - Circular progress bar : Barre de chargement circulaire
