@@ -31,6 +31,7 @@ h2 span {
     columns: white;
 }
 
+/*Text area about to be converted*/
 textarea {
     width: 600px;
     height: 250px;
@@ -50,6 +51,7 @@ textarea::placeholder {
     color: #ddd;
 }
 
+/*Language selector and convert button row container*/
 .row {
     width: 600px;
     display: flex;
@@ -57,6 +59,7 @@ textarea::placeholder {
     gap: 20px;
 }
 
+/*Convert button*/
 button {
     background: #ff2963;
     color: #fff;
@@ -75,6 +78,7 @@ button img {
     margin-right: 10px;
 }
 
+/*Language selector*/
 select {
     flex: 1;
     color: #fff;

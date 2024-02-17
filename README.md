@@ -12,4 +12,5 @@ Série de petits projets réutilisables afin de monter en compétences sur Javas
 - Show and hide password : Afficher ou cacher son mot de passe en cliquant sur une image
 - Text to speech converter : Convertisseur de texte en voix avec choix de la langue
 - Todo list : Créer une todo list persistante
+- Weather app : Affichage de la météo selon la ville choisie grâce à l'API OpenWeatherMap avec la méthode fetch async
 
