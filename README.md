@@ -10,5 +10,6 @@ Série de petits projets réutilisables afin de monter en compétences sur Javas
 - Pop up button : Display d'un popup avec animation après click sur un bouton
 - QR code generator : Générer un QR code contenant du texte ou une URL via l'API QR code generator
 - Show and hide password : Afficher ou cacher son mot de passe en cliquant sur une image
+- Text to speech converter : Convertisseur de texte en voix avec choix de la langue
 - Todo list : Créer une todo list persistante
 
