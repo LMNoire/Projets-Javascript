@@ -1,6 +1,7 @@
 # Description
 Série de petits projets réutilisables afin de monter en compétences sur Javascript
 # Contenu des projets
+- Age calculator : Calculer un âge à partir d'une date (Année, mois & jours)
 - Calculator : Calculatrice
 - Circular progress bar : Barre de chargement circulaire
 - Coming soon page : Page de lancement d'un site avec compte à rebours

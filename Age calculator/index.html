@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Age calculator</title>
+    <!--Style-->
+    <link rel="stylesheet" href="style.css">
+    <!--Google fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Roboto&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <!--Calculator container-->
+    <div class="container">
+        <div class="calculator">
+            <!--H1 title-->
+            <h1>Javascript<br> <span> Age calculator</span></h1>
+            <!--Input box for date-->
+            <div class="input-box">
+                <input type="date" id="date">
+                <!--On click button call calculateAge function-->
+                <button onclick="calculateAge()">Calculate</button>
+            </div>
+            <!--Display results-->
+            <p id="result"></p>
+        </div>
+    </div>
+
+        <!--JS scripts-->
+        <script src="script.js"></script>
+
+</body>
+</html>
