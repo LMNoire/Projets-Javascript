@@ -16,6 +16,10 @@ h1, h2 {
     color: #95A3B3;
 }
 
+h2 span {
+    color: #84DCC6;
+}
+
 /*Input and generator container*/
 .container {
     width: 400px;

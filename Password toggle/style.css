@@ -16,6 +16,10 @@ h1, h2 {
     color: #95A3B3;
 }
 
+h2 span {
+    color: #84DCC6;
+}
+
 /*Password input box*/
 .input-box {
     background-color: #fff;
@@ -24,7 +28,7 @@ h1, h2 {
     border-radius: 5px;
     padding: 10px 20px;
     /*Center the input box*/
-    margin: 280px auto;
+    margin: 150px auto;
     /*Align eyes pictures in the center of the box*/
     display: flex;
     align-items: center;

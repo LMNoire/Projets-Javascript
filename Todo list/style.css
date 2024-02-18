@@ -17,6 +17,10 @@ h1, h2 {
     color: #95A3B3;
 }
 
+h2 span {
+    color: #84DCC6;
+}
+
 .container {
     width: 100%;
     min-height: 100vh;
@@ -37,6 +41,7 @@ h1, h2 {
     display: flex;
     align-items: center;
     margin-bottom: 20px;
+    color: #fff;
 }
 
 .todo-add h2 img {
@@ -85,6 +90,7 @@ ul li {
     user-select: none;
     cursor: pointer;
     position: relative;
+    color: #fff;
 }
 
 /*List circles*/

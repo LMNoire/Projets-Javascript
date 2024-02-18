@@ -17,11 +17,15 @@ h1, h2 {
     color: #95A3B3;
 }
 
+h2 span {
+    color: #84DCC6;
+}
+
 .container {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 200px auto;
+    margin: 100px auto;
 }
 
 .skill {
