@@ -20,6 +20,7 @@ h2 span {
     color: #84DCC6;
 }
 
+/*Weather display card*/
 .card {
     width: 90%;
     max-width: 470px;
@@ -31,6 +32,7 @@ h2 span {
     text-align: center;
 }
 
+/*City search*/
 .search {
     width: 100%;
     display: flex;
@@ -38,6 +40,7 @@ h2 span {
     justify-content: space-between;
 }
 
+/*City search input*/
 .search input {
     border: 0;
     outline: 0;
@@ -51,6 +54,7 @@ h2 span {
     font-size: 18px;
 }
 
+/*City search button*/
 .search button {
     border: 0;
     outline: 0;
@@ -61,6 +65,7 @@ h2 span {
     cursor: pointer;
 }
 
+/*City search button img*/
 .search button img {
     width: 16px;
 }
@@ -70,12 +75,14 @@ h2 span {
     margin-top: 30px;
 }
 
+/*City name and temperature*/
 .weather h3 {
     font-size: 45px;
     font-weight: 400;
     margin-top: -10px;
 }
 
+/*Weather details wind speed and humidity*/
 .details {
     display: flex;
     align-items: center;
@@ -84,6 +91,7 @@ h2 span {
     margin-top: 50px;
 }
 
+/*Display weather details in columns*/
 .col {
     display: flex;
     align-items: center;
@@ -104,6 +112,7 @@ h2 span {
     display: none;
 }
 
+/*Error div*/
 .error {
     text-align: left;
     margin-left: 10px;
