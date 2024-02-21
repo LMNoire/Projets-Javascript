@@ -6,6 +6,7 @@ Série de petits projets réutilisables afin de monter en compétences sur Javas
 - Circular progress bar : Barre de chargement circulaire
 - Coming soon page : Page de lancement d'un site avec compte à rebours
 - Cryptocurrencies live prices : Affichage en temps réel du prix de trois cryptomonnaies avec l'API Coin Gecko (+ Ajax & Jquery)
+- Dark & day mode : Activer ou désactiver un mode clair ou obscur de manière persistante après la fermeture du navigateur
 - Digital clock : Horloge digitale
 - Image search engine : Recherche et affichage d'images via l'API unsplash.com avec la méthode fetch async
 - Password generator : Générer un mot de passe aléatoirement avec copie dans le clipboard
