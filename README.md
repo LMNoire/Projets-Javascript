@@ -8,6 +8,7 @@ Série de petits projets réutilisables afin de monter en compétences sur Javas
 - Cryptocurrencies live prices : Affichage en temps réel du prix de trois cryptomonnaies avec l'API Coin Gecko (+ Ajax & Jquery)
 - Dark & day mode : Activer ou désactiver un mode clair ou obscur de manière persistante après la fermeture du navigateur
 - Digital clock : Horloge digitale
+- Drag & drop : Système de drag & drop d'items
 - Horizontal scrolling image gallery : Caroussel d'images noir et blanc horizontal avec effet couleur et taille sur la photo au passage de la souris (Scroll avec molette souris ou boutons)
 - Image search engine : Recherche et affichage d'images via l'API unsplash.com avec la méthode fetch async
 - Password generator : Générer un mot de passe aléatoirement avec copie dans le clipboard
