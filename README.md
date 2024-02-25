@@ -16,7 +16,7 @@ Série de petits projets réutilisables afin de monter en compétences en Javasc
 - Password strenght : Affiche la solidité d'un mot de passe selon sa longueur
 - Password toggle : Afficher ou cacher son mot de passe en cliquant sur une image
 - Pop up button : Display d'un popup avec animation après click sur un bouton
-- Product page design : Affichage d'un produit à vendre e-commerce
+- Product page design : Affichage d'un produit à vendre e-commerce avec choix de la taille, couleur et quantité
 - QR code generator : Générer un QR code contenant du texte ou une URL via l'API QR code generator
 - Select menu : Menu déroulant simple
 - Sign in and sign up form : Formulaire d'inscription et de connexion avec React
