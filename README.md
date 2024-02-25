@@ -17,6 +17,7 @@ Série de petits projets réutilisables afin de monter en compétences en Javasc
 - Password toggle : Afficher ou cacher son mot de passe en cliquant sur une image
 - Pop up button : Display d'un popup avec animation après click sur un bouton
 - QR code generator : Générer un QR code contenant du texte ou une URL via l'API QR code generator
+- Select menu : Menu déroulant simple
 - Sign in and sign up form : Formulaire d'inscription et de connexion avec React
 - Text to speech converter : Convertisseur de texte en voix avec choix de la langue
 - Todo list : Créer une todo list persistante
