@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product page design</title>
+    <!--Style-->
+    <link rel="stylesheet" href="style.css">
+    <!--Google fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Roboto&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <!--H1 & H2 titles-->
+    <h1>Product page design</h1>
+    <h2>With <span>Javascript</span></h2>     
+
+        <!--Product container-->
+        <div class="container">
+            <div class="product">
+                <!--Product images-->
+                <div class="gallery">
+                    <img src="assets/image1.jpg" id="productImg">
+                    <div class="controls">
+                        <!--Change img buttons-->
+                        <span class="btn active"></span>
+                        <span class="btn"></span>
+                        <span class="btn"></span>
+                    </div>
+                </div>
+                <!--Product details-->
+                <div class="details">
+                    <h3>Casual T Shirt</h3>
+                    <h4>€15.00</h4>
+                    <h5>30% OFF</h5>
+                    <p>Wrangler is an American manufacturer of jeans and other clothing items, particularly workwear.</p>
+                    <form>
+                        <!--Sizes choice form-->
+                        <div class="size-select">
+                            <p>Size</p>
+                            <label for="small">
+                                <input type="radio" name="size" id="small">
+                                <span>S</span>
+                            </label>
+                            <label for="medium">
+                                <input type="radio" name="size" id="medium">
+                                <span>M</span>
+                            </label>
+                            <label for="large">
+                                <input type="radio" name="size" id="large">
+                                <span>L</span>
+                            </label>
+                            <label for="x-large">
+                                <input type="radio" name="size" id="x-large">
+                                <span>XL</span>
+                            </label>
+                            <label for="xx-large">
+                                <input type="radio" name="size" id="xx-large">
+                                <span>XXL</span>
+                            </label>
+                        </div>
+
+                        <!--Colors choice form-->
+                        <div class="color-select">
+                            <p>Color</p>
+                            <label for="red">
+                                <input type="radio" name="color" id="red">
+                                <span class="color-1"></span>
+                            </label>
+                            <label for="green">
+                                <input type="radio" name="color" id="green">
+                                <span class="color-2"></span>
+                            </label>
+                            <label for="blue">
+                                <input type="radio" name="color" id="blue">
+                                <span class="color-3"></span>
+                            </label>
+                            <label for="pink">
+                                <input type="radio" name="color" id="pink">
+                                <span class="color-4"></span>
+                            </label>
+                        </div>
+
+                        <!--Quantity choice-->
+                        <div class="quantity-select">
+                            <p>Quantity</p>
+                            <input type="number" value="1">
+                        </div>
+
+                        <!--Buy now button-->
+                        <button>Buy now</button>
+
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        <!--JS scripts-->
+        <script src="script.js"></script>
+
+</body>
+</html>
