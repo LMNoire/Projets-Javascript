@@ -12,6 +12,7 @@ Série de petits projets réutilisables afin de monter en compétences en Javasc
 - Horizontal scrolling image gallery : Caroussel d'images noir et blanc horizontal avec effet couleur et taille sur la photo au passage de la souris (Scroll avec molette souris ou boutons)
 - Image search engine : Recherche et affichage d'images via l'API unsplash.com avec la méthode fetch async
 - Mini calendar : Mini calendrier
+- Pagination : Système de pagination
 - Password generator : Générer un mot de passe aléatoirement avec copie dans le clipboard
 - Password strenght : Affiche la solidité d'un mot de passe selon sa longueur
 - Password toggle : Afficher ou cacher son mot de passe en cliquant sur une image

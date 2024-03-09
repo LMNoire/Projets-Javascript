@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagination</title>
+    <!--Style-->
+    <link rel="stylesheet" href="style.css">
+    <!--Google fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Roboto&display=swap" rel="stylesheet">
+    <!--Fontawesome-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"/>
+</head>
+
+<body>
+
+    <!--H1 & H2 titles-->
+    <h1>Pagination</h1>
+    <h2>With <span>Javascript</span></h2>     
+
+
+    <div class="container">
+        <button class="button" id="startBtn" disabled>
+            <i class="fa-solid fa-angles-left"></i>
+        </button>
+        <button class="button prevNext" id="prev" disabled>
+            <i class="fa-solid fa-angle-left"></i>
+        </button>
+
+        <div class="links">
+            <a href="#" class="link active">1</a>
+            <a href="#" class="link">2</a>
+            <a href="#" class="link">3</a>
+            <a href="#" class="link">4</a>
+            <a href="#" class="link">5</a>
+        </div>
+
+        <button class="button prevNext" id="next">
+            <i class="fa-solid fa-angle-right"></i>        
+        </button>
+        <button class="button" id="endBtn">
+            <i class="fa-solid fa-angles-right"></i>
+        </button>
+    </div>
+
+        <!--JS scripts-->
+        <script src="script.js"></script>
+
+</body>
+</html>
