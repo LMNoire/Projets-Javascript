@@ -23,6 +23,7 @@ Série de petits projets réutilisables afin de monter en compétences en Javasc
 - Side toast notifications : Notifications latérales temporaires
 - Sign in and sign up form : Formulaire d'inscription et de connexion avec React
 - Stopwatch : Chronomètre avec fonction pause et reset
+- Temperature converter : Convertisseur degrés celsius/fahrenheit
 - Text to speech converter : Convertisseur de texte en voix avec choix de la langue
 - Todo list : Créer une todo list persistante
 - Weather app : Affichage de la météo selon la ville choisie grâce à l'API OpenWeatherMap avec la méthode fetch async
