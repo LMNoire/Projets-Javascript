@@ -22,6 +22,7 @@ Série de petits projets réutilisables afin de monter en compétences en Javasc
 - Select menu : Menu déroulant simple
 - Side toast notifications : Notifications latérales temporaires
 - Sign in and sign up form : Formulaire d'inscription et de connexion avec React
+- Star rating : Notation avec étoiles
 - Stopwatch : Chronomètre avec fonction pause et reset
 - Temperature converter : Convertisseur degrés celsius/fahrenheit
 - Text to speech converter : Convertisseur de texte en voix avec choix de la langue
